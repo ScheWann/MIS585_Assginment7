@@ -30,11 +30,11 @@ export default function Product() {
         An authentic, artisan coffee café featuring coffees, breakfast pastries, sandwiches and salads. Brew is also home to the nitro brew iced coffee, which is sure to keep you energized throughout the day.
       </Typography>
       <Button
-        color="secondary"
+        color="coffees"
         variant="contained"
         size="large"
         component="a"
-        href="/premium-themes/onepirate/sign-up/"
+        style={{borderRadius: '5px'}}
         sx={{ minWidth: 200 }}
       >
         Buy Now

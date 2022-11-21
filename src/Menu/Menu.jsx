@@ -20,44 +20,43 @@ function AppAppBar() {
             variant="h6"
             underline="none"
             color="inherit"
-            href="/premium-themes/onepirate/"
             sx={{ fontSize: 24 }}
           >
             {'Brew on the Grid'}
           </Link>
           <Box sx={{ flex: 1, display: 'flex', justifyContent: 'flex-end' }}>
           <Link
+              className='controller'
               color="inherit"
               variant="h6"
               underline="none"
-              href="/premium-themes/onepirate/sign-in/"
               sx={rightLink}
             >
               {'Brew on the Grid'}
             </Link>
             <Link
+              className='controller'
               color="inherit"
               variant="h6"
               underline="none"
-              href="/premium-themes/onepirate/sign-in/"
               sx={rightLink}
             >
               {'MENU'}
             </Link>
             <Link
+              className='controller'
               color="inherit"
               variant="h6"
               underline="none"
-              href="/premium-themes/onepirate/sign-in/"
               sx={rightLink}
             >
               {'Order Pick Up'}
             </Link>
             <Link
+              className='controller'
               variant="h6"
               underline="none"
-              href="/premium-themes/onepirate/sign-up/"
-              sx={{ ...rightLink, color: 'secondary.main' }}
+              sx={{ ...rightLink, color: '#dda15e' }}
             >
               {'Contact'}
             </Link>

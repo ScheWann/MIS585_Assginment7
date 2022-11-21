@@ -52,7 +52,7 @@ function ProductValues() {
             <Box sx={item}>
               <Box
                 component="img"
-                src="https://mui.com/static/themes/onepirate/productValues1.svg"
+                src="https://mui.com/static/themes/onepirate/productValues2.svg"
                 alt="graph"
                 sx={{ height: 55 }}
               />

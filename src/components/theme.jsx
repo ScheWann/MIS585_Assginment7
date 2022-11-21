@@ -27,6 +27,9 @@ const rawTheme = createTheme({
       main: green[500],
       dark: green[700],
     },
+    coffees: {
+      main: '#dda15e'
+    }
   },
   typography: {
     fontFamily: "'Work Sans', sans-serif",
