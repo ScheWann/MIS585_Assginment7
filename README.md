@@ -1,4 +1,4 @@
-# MIS585 Assginment6
+# MIS585 Assginment7
 > MIS585 homework in Module 11 --- Assignment 7
 # Introduction
 > The project is a Front-end project without Back-end with React
@@ -12,7 +12,6 @@ cd MIS585_Assginment7
 npm install
 
 npm start
-
 ```
 # ScreenShot
 <h3>Homepage</h3>
