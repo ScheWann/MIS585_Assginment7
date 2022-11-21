@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/MIS585_Assginment7/static/css/main.3e1c7e09.css",
+    "main.js": "/MIS585_Assginment7/static/js/main.0acd2d62.js",
+    "static/media/Sandwich.jpg": "/MIS585_Assginment7/static/media/Sandwich.cb070bdb511d5eab9831.jpg",
+    "static/media/coffee.jpeg": "/MIS585_Assginment7/static/media/coffee.ab3596d2cb81f885778f.jpeg",
+    "static/media/MilkShake.jpeg": "/MIS585_Assginment7/static/media/MilkShake.4f6b365c7abd5e1ceb3d.jpeg",
+    "static/media/Smoothie.jpeg": "/MIS585_Assginment7/static/media/Smoothie.d3dd1c5e17a0f88bfbe9.jpeg",
+    "static/media/Tea.jpeg": "/MIS585_Assginment7/static/media/Tea.deef53641de6297476ab.jpeg",
+    "static/media/Espresso.jpg": "/MIS585_Assginment7/static/media/Espresso.9b8333c24f2341e41127.jpg",
+    "static/media/ShakenTea.jpg": "/MIS585_Assginment7/static/media/ShakenTea.04e7b294bc1c1b8b447f.jpg",
+    "static/media/coffee_product.jpg": "/MIS585_Assginment7/static/media/coffee_product.e078a0694ff0dde1ee86.jpg",
+    "static/media/Patries.jpeg": "/MIS585_Assginment7/static/media/Patries.3747e1f922a69b0937cc.jpeg",
+    "static/media/Frittata.jpeg": "/MIS585_Assginment7/static/media/Frittata.b3f42da1b034bfd6acfe.jpeg",
+    "index.html": "/MIS585_Assginment7/index.html",
+    "main.3e1c7e09.css.map": "/MIS585_Assginment7/static/css/main.3e1c7e09.css.map",
+    "main.0acd2d62.js.map": "/MIS585_Assginment7/static/js/main.0acd2d62.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3e1c7e09.css",
+    "static/js/main.0acd2d62.js"
+  ]
+}
